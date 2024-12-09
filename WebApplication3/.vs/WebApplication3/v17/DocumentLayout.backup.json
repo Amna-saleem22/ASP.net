@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{077FE92B-2F4D-4DE4-92F8-0888E78101FA}|WebApplication3\\WebApplication3.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication3\\webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{077FE92B-2F4D-4DE4-92F8-0888E78101FA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T16:53:44.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
