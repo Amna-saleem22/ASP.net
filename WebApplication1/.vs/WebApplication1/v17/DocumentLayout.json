@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication1\\webapplication1\\controllers\\addcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\addcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication1\\webapplication1\\views\\addcontroller1\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\addcontroller1\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication1\\webapplication1\\views\\addcontroller1\\servicex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\addcontroller1\\servicex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication1\\webapplication1\\views\\addcontroller1\\cotact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\addcontroller1\\cotact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication1\\webapplication1\\views\\addcontroller1\\aout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\addcontroller1\\aout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication1\\webapplication1\\views\\addcontroller1\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E493CC6-FF8F-4ABF-8ACF-B5F90760BEED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\addcontroller1\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:46:43.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T05:42:52.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\AddController1\\Product.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\AddController1\\Product.cshtml",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\AddController1\\Product.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\AddController1\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T05:42:04.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Servicex.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\AddController1\\Servicex.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\AddController1\\Servicex.cshtml",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\AddController1\\Servicex.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\AddController1\\Servicex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T05:40:46.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cotact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\AddController1\\Cotact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\AddController1\\Cotact.cshtml",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\AddController1\\Cotact.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\AddController1\\Cotact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T05:39:10.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\AddController1\\Aout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\AddController1\\Aout.cshtml",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\AddController1\\Aout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\AddController1\\Aout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T05:37:42.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\AddController1\\Home.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\AddController1\\Home.cshtml",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Views\\AddController1\\Home.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\AddController1\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T05:36:27.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddController1.cs",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Controllers\\AddController1.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AddController1.cs",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\Controllers\\AddController1.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AddController1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:31:58.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

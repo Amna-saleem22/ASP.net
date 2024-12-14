@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pUIwNeVxRoQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARSHAD\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
