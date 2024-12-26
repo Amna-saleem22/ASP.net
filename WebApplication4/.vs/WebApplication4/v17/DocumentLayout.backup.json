@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0232B2FD-FEE6-4274-8550-4C8219602BD5}|WebApplication4\\WebApplication4.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication4\\webapplication4\\views\\hellocontroller1\\happy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0232B2FD-FEE6-4274-8550-4C8219602BD5}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\hellocontroller1\\happy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0232B2FD-FEE6-4274-8550-4C8219602BD5}|WebApplication4\\WebApplication4.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication4\\webapplication4\\controllers\\hellocontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0232B2FD-FEE6-4274-8550-4C8219602BD5}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\hellocontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0232B2FD-FEE6-4274-8550-4C8219602BD5}|WebApplication4\\WebApplication4.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication4\\webapplication4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0232B2FD-FEE6-4274-8550-4C8219602BD5}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0232B2FD-FEE6-4274-8550-4C8219602BD5}|WebApplication4\\WebApplication4.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication4\\webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0232B2FD-FEE6-4274-8550-4C8219602BD5}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0232B2FD-FEE6-4274-8550-4C8219602BD5}|WebApplication4\\WebApplication4.csproj|c:\\users\\arshad\\source\\repos\\asp.net\\webapplication4\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0232B2FD-FEE6-4274-8550-4C8219602BD5}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T17:33:36.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication4\\WebApplication4\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication4\\WebApplication4\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T17:33:28.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Happy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication4\\WebApplication4\\Views\\HelloController1\\Happy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\HelloController1\\Happy.cshtml",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication4\\WebApplication4\\Views\\HelloController1\\Happy.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\HelloController1\\Happy.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T17:32:11.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloController1.cs",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication4\\WebApplication4\\Controllers\\HelloController1.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\HelloController1.cs",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication4\\WebApplication4\\Controllers\\HelloController1.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\HelloController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:31:28.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Program.cs",
+              "ToolTip": "C:\\Users\\ARSHAD\\source\\repos\\ASP.net\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeToolTip": "WebApplication4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:21:17.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
